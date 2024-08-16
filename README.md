@@ -24,7 +24,7 @@
 <hr>
 <h3>
     these are screen shoot image showing the project
-    <img src="https://github.com/jussherima/minimax-police-thief-java/appercu/Capture d’écran du 2024-08-16 21-15-57.png"/>
+    <img src="https://github.com/jussherima/minimax-police-thief-java/blob/main/appercu/capture3.png"/>
 </h3>
 <hr/>
 <h3>i'm open for every comment thank you</h3>
