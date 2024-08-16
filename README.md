@@ -25,6 +25,9 @@
 <h3>
     these are screen shoot image showing the project
     <img src="https://github.com/jussherima/minimax-police-thief-java/blob/main/appercu/capture3.png"/>
+    <img src="https://github.com/jussherima/minimax-police-thief-java/blob/main/appercu/capture2.png"/>
+    <img src="https://github.com/jussherima/minimax-police-thief-java/blob/main/appercu/capture1.png"/>
+    
 </h3>
 <hr/>
 <h3>i'm open for every comment thank you</h3>
