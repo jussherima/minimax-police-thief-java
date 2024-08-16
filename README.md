@@ -16,7 +16,7 @@
         <li>or just click the script
             <ul>
                 <li>on linux tape : chmod +x script_linux.sh then run ./script_linux.sh on the terminal</li>
-                <li>on windows just double click on :script_windows.sh</li>
+                <li>on windows just double click on :script_windows.bat</li>
             </ul>
         </li>
     </ul>
@@ -24,6 +24,7 @@
 <hr>
 <h3>
     these are screen shoot image showing the project
+    <img src="https://github.com/jussherima/minimax-police-thief-java/appercu/Capture d’écran du 2024-08-16 21-15-57.png"/>
 </h3>
 <hr/>
 <h3>i'm open for every comment thank you</h3>
